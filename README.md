@@ -15,6 +15,9 @@ A modern Flutter app for searching real estate properties and compounds. Built w
 - Favorite Properties (persisted in local cache)
 - Local Caching using `shared_preferences`
 - Routing using `go_router`
+- Splash screen for smooth startup using `flutter_native_splash`
+- No-Connection Screen that appears when the device is offline and returns to the app once the connection is restored
+
 
 ---
 
